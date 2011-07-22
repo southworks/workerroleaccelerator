@@ -1,0 +1,57 @@
+<stylecopresultscache>
+  <version>10</version>
+  <sourcecode name="PlugIn.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/13/2011 14:08:42</timestamp>
+      <milliseconds>102</milliseconds>
+    </settings>
+    <timestamp>07/13/2011 15:50:48</timestamp>
+    <milliseconds>361</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="1718284270">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="-376967186">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/13/2011 14:08:42</timestamp>
+      <milliseconds>102</milliseconds>
+    </settings>
+    <timestamp>07/05/2011 15:07:29</timestamp>
+    <milliseconds>934</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="WorkerRole.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/13/2011 14:08:42</timestamp>
+      <milliseconds>102</milliseconds>
+    </settings>
+    <timestamp>07/19/2011 18:09:42</timestamp>
+    <milliseconds>650</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProxyRoleEntryPoint.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/13/2011 14:08:42</timestamp>
+      <milliseconds>102</milliseconds>
+    </settings>
+    <timestamp>07/19/2011 18:12:46</timestamp>
+    <milliseconds>56</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="-609153621">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="WorkerRoleLoader.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>07/13/2011 14:08:42</timestamp>
+      <milliseconds>102</milliseconds>
+    </settings>
+    <timestamp>07/19/2011 18:15:30</timestamp>
+    <milliseconds>823</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

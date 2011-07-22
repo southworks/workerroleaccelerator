@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DeploymentBuildOnly>False</DeploymentBuildOnly>
+    <DeploymentAccountName>DpeContentDev</DeploymentAccountName>
+    <DeploymentHostedService>workeraccelerator</DeploymentHostedService>
+    <DeploymentHostedServiceLabel>Worker Role Accelerator</DeploymentHostedServiceLabel>
+    <DeploymentSlot>Production</DeploymentSlot>
+    <DeploymentIncludeIntellitrace>False</DeploymentIncludeIntellitrace>
+    <DeploymentEnableWebDeploy>False</DeploymentEnableWebDeploy>
+    <DeploymentStorageService>workeraccspike</DeploymentStorageService>
+    <DeploymentStorageServiceLabel>workeraccspike</DeploymentStorageServiceLabel>
+    <DeploymentLabel>WorkerRoleAccelerator.Cloud - 7/22/2011 3:39:03 AM</DeploymentLabel>
+    <DeploymentPromptBeforeDeleting>True</DeploymentPromptBeforeDeleting>
+    <DeploymentIsExpanded>True</DeploymentIsExpanded>
+  </PropertyGroup>
+</Project>
